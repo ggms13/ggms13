@@ -1,8 +1,6 @@
 ### Olá! Eu sou a Grasiele Gomes 👋
 
-
-- 🔭 No momento estou trabalhando em outra área
-- 📔 No momento estou aprendendo Java 
+- 📔 No momento estou aprendendo Java e UX Design
 - 🤩 Pronomes: ela/dela
 
 <div align="center">
